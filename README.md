@@ -8,9 +8,9 @@ Frontend nibelung-ts link:
 
 Technologies: 
 
-    JwtBearer authorization,
-    Entityframework,
-    PostgreSQL
+    - JwtBearer authorization,
+    - Entityframework,
+    - PostgreSQL
 
 You can registrate user and update his data
 

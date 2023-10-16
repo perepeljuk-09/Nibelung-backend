@@ -9,11 +9,11 @@ Frontend nibelung-ts link:
 Technologies:\
     - JwtBearer authorization\
     - Entityframework\
-    - PostgreSQL\
+    - PostgreSQL
 
 You can:\
     - registrate user and update his data\
     - Add, get with pagination, get one, update, delete posts\
     - Add, get with pagination, update, delete add comments for post\
     - Add, get, update, delete Answer for comment\
-    - Add file to post, delete and update\
+    - Add file to post, delete and update

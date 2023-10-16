@@ -2,8 +2,7 @@
 
 This project is backend for frontend project - nibelung-ts
 
-Frontend nibelung-ts link:
-
+Frontend nibelung-ts link:\
    [ https://github.com/perepeljuk-09/nibelung-ts](https://github.com/perepeljuk-09/nibelung-ts)
 
 Technologies:\

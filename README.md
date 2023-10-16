@@ -13,7 +13,7 @@ Technologies:\
 
 You can:\
     - registrate user and update his data\
-    - Add, get with pagination, get one, update, delete posts\
-    - Add, get with pagination, update, delete add comments for post\
-    - Add, get, update, delete Answer for comment\
-    - Add file to post, delete and update
+    - add, get with pagination, get one, update, delete posts\
+    - add, get with pagination, update, delete add comments for post\
+    - add, get, update, delete Answer for comment\
+    - add file to post, delete and update
